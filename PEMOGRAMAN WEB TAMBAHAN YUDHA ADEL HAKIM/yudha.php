@@ -1,0 +1,6 @@
+<?php
+
+echo"looping menggunakan for : </br>";
+for ($i = 1; $i <=10 ; $i++) {
+    echo "<li>urutan ke-$i</li>";
+} 
